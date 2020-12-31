@@ -4,7 +4,7 @@
 
 min of tN
 
-atom type e-state descriptor.
+atom type e-state descriptor
 https://pubs.acs.org/doi/abs/10.1021/ci00028a014
 
 Electrotopological State Indices for Atom Types: A Novel Combination of Electronic, Topological, and Valence State Information
