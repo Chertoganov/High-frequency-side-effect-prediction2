@@ -12,3 +12,5 @@ https://pubs.acs.org/doi/abs/10.1021/ci00028a014
 
 Electrotopological State Indices for Atom Types: A Novel Combination of Electronic, Topological, and Valence State Information
 
+
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
